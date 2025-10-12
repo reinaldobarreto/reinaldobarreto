@@ -128,6 +128,13 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 </p>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Calendário de contribuições em animação (Snake)" />
+  <br/>
+  <em>Layout mensal/anual no estilo do calendário do GitHub.</em>
+  
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&rank_icon=github&title_color=FFC107&text_color=FFFFFF&icon_color=00E5FF&bg_color=0D1117&border_color=02569B" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&title_color=FFC107&text_color=FFFFFF&bg_color=0D1117&border_color=02569B" height="150" alt="Top Languages" />
 </div>
@@ -140,12 +147,7 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
-### Snake de contribuições
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Snake animation" />
-  <br/>
-  <em>Atualiza diariamente via GitHub Actions.</em>
-</p>
+<!-- Snake incorporado acima nas métricas -->
 
 ### Contato
 <p>
