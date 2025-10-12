@@ -128,7 +128,11 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Calendário de contribuições em animação (Snake)" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake-light.svg" />
+    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" />
+  </picture>
   <br/>
   <em>Layout mensal/anual no estilo do calendário do GitHub.</em>
   
