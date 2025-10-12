@@ -23,7 +23,39 @@ Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB 
 
 ## Contato
 - GitHub: https://github.com/reinaldobarreto
-## Overview (Perfil)
+## Overview — Flutter/Dart First
+<div align="center">
+  <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flutter/Dart First">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#00D4FF"/>
+        <stop offset="50%" stop-color="#7A00FF"/>
+        <stop offset="100%" stop-color="#00FFA3"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="1200" height="140" fill="url(#g)"/>
+    <text x="50%" y="55%" text-anchor="middle" fill="#0A0A0A" font-size="34" font-weight="700">Flutter / Dart First</text>
+    <text x="50%" y="80%" text-anchor="middle" fill="#ffffff" font-size="18" opacity="0.92">Mobile • Web demo • Provider • Firebase</text>
+  </svg>
+</div>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" style="filter: drop-shadow(0 0 6px #00FFA3);" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" style="filter: drop-shadow(0 0 6px #00D4FF);" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" style="filter: drop-shadow(0 0 6px #FFCA28);" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #F7DF1E);" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #3178C6);" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #339933);" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #DD0031);" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" style="filter: drop-shadow(0 0 6px #61DAFB);" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" style="filter: drop-shadow(0 0 6px #61DAFB);" alt="React Native"/>
+</p>
+
+### TL;DR para recrutadores
+- Foco principal: Flutter/Dart (mobile) + Demo Web de avaliação.
+- Abrir Demo Web: https://reinaldobarreto.github.io/fintrack360/
+- Repositório do projeto: https://github.com/reinaldobarreto/fintrack360
+
 Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps Android/iOS e versões Web quando útil para avaliação pública. Meu destaque é em arquitetura limpa, gerenciamento de estado com Provider e integrações simples com Firebase. Abaixo, botões rápidos para conhecer o projeto em Flutter e minha stack complementar.
 
 <p>
