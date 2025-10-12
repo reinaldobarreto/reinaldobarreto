@@ -33,6 +33,25 @@
   <img src="https://streak-stats.demolab.com?user=reinaldobarreto&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
+<!-- Badge de visitantes e troféus -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reinaldobarreto&label=Visitors&color=0AEFFF&style=flat" alt="Profile views" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reinaldobarreto&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Profile Trophy" />
+</div>
+
+<!-- Activity graph com tema noturno -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+<!-- Snake animation do grid de contribuições -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Snake animation" />
+</div>
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
