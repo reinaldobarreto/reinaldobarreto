@@ -129,9 +129,9 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 
 <div align="center" style="margin: 8px 0 18px 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake-light.svg" />
-    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" style="max-width:840px;width:100%;height:auto;border:1px solid #02569B;border-radius:8px;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake-light.svg?v=2" />
+    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg?v=2" style="max-width:840px;width:100%;height:auto;border:1px solid #02569B;border-radius:8px;" />
   </picture>
   <br/>
   <em style="color:#FFC107;">Layout mensal/anual coeso com a paleta (âmbar/turquesa/Flutter blue).</em>
