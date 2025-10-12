@@ -106,6 +106,13 @@ Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps An
 - Stack: Flutter (Mobile Android/iOS, Web), modo demo local em Pages.
 - Login padrão disponível: `admin@fintrack.com` / `admin1234`.
 
+### Snake de contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Snake animation" />
+  <br/>
+  <em>Atualiza diariamente via GitHub Actions.</em>
+</p>
+
 Texto para LinkedIn/CV (copiar/colar):
 “FinTrack360 é um app Flutter focado em Mobile (Android/iOS), com versão Web pública para avaliação: https://reinaldobarreto.github.io/fintrack360/. Para testar sem cadastro, clique em ‘Pular login (demo local)’. Projeto demonstra UI responsiva, estado com Provider e gráficos. Disponível também para build Android/iOS.”
 
