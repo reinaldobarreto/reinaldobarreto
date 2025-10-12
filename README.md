@@ -98,19 +98,52 @@ Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps An
   <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000" alt="React Native" /></a>
 </p>
 
-# Projetos em Destaque
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=00E5FF&vCenter=true&size=26&pause=1200" alt="Typing SVG" /></a>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,firebase,git,github,ghactions,js,ts,react&perline=11" height="42" alt="Skill Icons" />
+</p>
 
-## FinTrack360 (Flutter Mobile + Web)
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### Sobre
+Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar demos Web para avaliação pública e integrações simples com Firebase. Prezo por arquitetura limpa e UX objetiva.
+
+### Projetos em destaque
+**FinTrack360** — Controle financeiro pessoal/familiar
 - Demo Web: https://reinaldobarreto.github.io/fintrack360/
+- Repositório: https://github.com/reinaldobarreto/fintrack360
 - Avaliação rápida: use “Pular login (demo local)” para entrar sem Firebase.
-- Stack: Flutter (Mobile Android/iOS, Web), modo demo local em Pages.
-- Login padrão disponível: `admin@fintrack.com` / `admin1234`.
+
+### Métricas e visuais
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reinaldobarreto&label=Visitors&color=0AEFFF&style=flat" alt="Profile views" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reinaldobarreto&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Profile Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ### Snake de contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Snake animation" />
   <br/>
   <em>Atualiza diariamente via GitHub Actions.</em>
+</p>
+
+### Contato
+<p>
+  <a href="mailto:reinaldodevbarreto@gmail.com"><img src="https://img.shields.io/badge/Email-reinaldodevbarreto%40gmail.com-333?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/reinaldobarreto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 Texto para LinkedIn/CV (copiar/colar):
