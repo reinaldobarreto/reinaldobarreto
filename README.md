@@ -7,6 +7,9 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,android,apple,firebase,figma,git,github,ghactions&perline=11" height="42" alt="Skill Icons" />
 </p>
 
+<!-- GIF de código flutuante à direita -->
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <!-- Divisor animado em gradiente -->
 <div align="center">
   <svg width="100%" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg">
@@ -31,6 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&rank_icon=percent" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=reinaldobarreto&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <!-- Badge de visitantes e troféus -->
@@ -51,6 +55,17 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Snake animation" />
 </div>
+
+<!-- Conecte-se comigo -->
+### Conecte-se comigo
+<p>
+  <!-- Substitua os href pelos seus links reais -->
+  <a href="https://github.com/reinaldobarreto" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="28" width="28"/></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="28" width="28"/></a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM_AQUI" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="28" width="28"/></a>
+  <a href="https://twitter.com/SEU_TWITTER_AQUI" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X/Twitter" height="28" width="28"/></a>
+  <a href="https://www.youtube.com/@SEU_YOUTUBE_AQUI" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" height="28" width="28"/></a>
+</p>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
