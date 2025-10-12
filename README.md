@@ -1,5 +1,7 @@
 # Reinaldo Barreto
 
+Visibilidade de teste: se esta linha aparecer no repositório, o README está ativo. Se não aparecer na aba Overview do perfil, é cache/latência de renderização do GitHub.
+
 <!-- Hero Futurista com animação de digitação e painel de ícones -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS;FinTrack360%20Web%20Demo&center=true&width=920&height=45&color=00E5FF&vCenter=true&size=26&pause=1200" alt="Typing SVG" /></a>
