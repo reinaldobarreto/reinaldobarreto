@@ -18,7 +18,7 @@ jobs:
           github_user_name: reinaldobarreto
           outputs: |
             dist/snake.svg?color_snake=%2300E5FF&color_dots=%23FFFFFF,%2300E5FF,%23FFC107,%2302569B
-            dist/snake-light.svg?color_snake=%2302569B&color_dots=%23000000,%2300E5FF,%23FFC107,%2302569B
+            dist/snake-light.svg?color_snake=%23FFC107&color_dots=%23000000,%2300E5FF,%23FFC107,%2302569B
 
       - name: Deploy SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4

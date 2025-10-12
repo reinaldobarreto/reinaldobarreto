@@ -131,7 +131,7 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake-light.svg" />
-    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" />
+    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" style="max-width:960px;width:100%;border:1px solid #02569B;border-radius:8px;" />
   </picture>
   <br/>
   <em>Layout mensal/anual no estilo do calendário do GitHub.</em>
@@ -144,11 +144,11 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reinaldobarreto&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=reinaldobarreto&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Profile Trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&hide_border=true&bg_color=0D1117&color=00E5FF&line=02569B&point=FFC107&area=true&title_color=FFC107" alt="Activity Graph" />
 </div>
 
 <!-- Snake incorporado acima nas métricas -->
