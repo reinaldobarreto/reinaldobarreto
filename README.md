@@ -27,9 +27,9 @@ Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB 
   <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flutter/Dart First">
     <defs>
       <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00D4FF"/>
-        <stop offset="50%" stop-color="#7A00FF"/>
-        <stop offset="100%" stop-color="#00FFA3"/>
+        <stop offset="0%" stop-color="#00E5FF"/>
+        <stop offset="50%" stop-color="#FFC107"/>
+        <stop offset="100%" stop-color="#02569B"/>
       </linearGradient>
     </defs>
     <rect x="0" y="0" width="1200" height="140" fill="url(#g)"/>
@@ -39,9 +39,9 @@ Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB 
 </div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" style="filter: drop-shadow(0 0 6px #00FFA3);" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" style="filter: drop-shadow(0 0 6px #00D4FF);" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" style="filter: drop-shadow(0 0 6px #FFCA28);" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" style="filter: drop-shadow(0 0 6px #00E5FF);" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" style="filter: drop-shadow(0 0 6px #FFC107);" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" style="filter: drop-shadow(0 0 6px #FFC107);" alt="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #F7DF1E);" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #3178C6);" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #339933);" alt="Node.js"/>
@@ -98,7 +98,7 @@ Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps An
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=00E5FF&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=FFC107&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
   <br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,firebase,git,github,ghactions,js,ts,react&perline=11" height="42" alt="Skill Icons" />
 </p>
@@ -116,12 +116,12 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 
 ### Métricas e visuais
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reinaldobarreto&label=Visitors&color=0AEFFF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=reinaldobarreto&label=Visitors&color=FFC107&style=flat" alt="Profile views" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&rank_icon=github&title_color=FFC107&text_color=FFFFFF&icon_color=00E5FF&bg_color=0D1117&border_color=02569B" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&title_color=FFC107&text_color=FFFFFF&bg_color=0D1117&border_color=02569B" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
