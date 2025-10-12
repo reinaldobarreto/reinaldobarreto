@@ -16,7 +16,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: reinaldobarreto
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg?color_snake=%2300E5FF&color_dots=%23FFFFFF,%2300E5FF,%23FFC107,%2302569B
 
       - name: Deploy SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
