@@ -123,32 +123,31 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 </div>
 
 ### Métricas e visuais
-<p align="center">
+<div align="center" style="margin: 8px 0 16px 0;">
   <img src="https://komarev.com/ghpvc/?username=reinaldobarreto&label=Visitors&color=FFC107&style=flat" alt="Profile views" />
-</p>
+ </div>
 
-<div align="center">
+<div align="center" style="margin: 8px 0 18px 0;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake-light.svg" />
-    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" style="max-width:960px;width:100%;border:1px solid #02569B;border-radius:8px;" />
+    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" style="max-width:820px;width:100%;height:auto;border:1px solid #02569B;border-radius:8px;" />
   </picture>
   <br/>
-  <em>Layout mensal/anual no estilo do calendário do GitHub.</em>
-  
+  <em>Layout mensal/anual coeso com a paleta (âmbar/turquesa/Flutter blue).</em>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 8px 0 18px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&rank_icon=github&title_color=FFC107&text_color=FFFFFF&icon_color=00E5FF&bg_color=0D1117&border_color=02569B" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&title_color=FFC107&text_color=FFFFFF&bg_color=0D1117&border_color=02569B" height="150" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reinaldobarreto&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Profile Trophy" />
+<div align="center" style="margin: 8px 0 18px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&hide_border=true&bg_color=0D1117&color=00E5FF&line=02569B&point=FFC107&area=true&title_color=FFC107" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&hide_border=true&bg_color=0D1117&color=00E5FF&line=02569B&point=FFC107&area=true&title_color=FFC107" alt="Activity Graph" />
+<div align="center" style="margin: 8px 0 8px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=reinaldobarreto&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Profile Trophy" />
 </div>
 
 <!-- Snake incorporado acima nas métricas -->
