@@ -98,7 +98,7 @@ Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps An
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=FFC107&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=00E5FF&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
   <br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,firebase,git,github,ghactions,js,ts,react&perline=11" height="42" alt="Skill Icons" />
 </p>
@@ -113,6 +113,14 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 - Demo Web: https://reinaldobarreto.github.io/fintrack360/
 - Repositório: https://github.com/reinaldobarreto/fintrack360
 - Avaliação rápida: use “Pular login (demo local)” para entrar sem Firebase.
+
+### Repositório em destaque
+<div align="center">
+  <a href="https://github.com/reinaldobarreto/fintrack360">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldobarreto&repo=fintrack360&title_color=FFC107&text_color=FFFFFF&icon_color=00E5FF&bg_color=0D1117&border_color=02569B" alt="FinTrack360 Pin" />
+  </a>
+  
+</div>
 
 ### Métricas e visuais
 <p align="center">
@@ -129,7 +137,7 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ### Snake de contribuições
