@@ -1,5 +1,38 @@
 # Reinaldo Barreto
 
+<!-- Hero Futurista com animação de digitação e painel de ícones -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS;FinTrack360%20Web%20Demo&center=true&width=920&height=45&color=00E5FF&vCenter=true&size=26&pause=1200" alt="Typing SVG" /></a>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,android,apple,firebase,figma,git,github,ghactions&perline=11" height="42" alt="Skill Icons" />
+</p>
+
+<!-- Divisor animado em gradiente -->
+<div align="center">
+  <svg width="100%" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#00E5FF">
+          <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="50%" stop-color="#7A00FF">
+          <animate attributeName="offset" values="0.5;1;0.5" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#00FFA3">
+          <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="1200" height="6" fill="url(#pulse)" />
+  </svg>
+</div>
+
+<!-- Cartas de estatísticas para reforço visual -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&rank_icon=percent" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=reinaldobarreto&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
