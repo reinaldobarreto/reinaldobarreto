@@ -33,7 +33,9 @@ jobs:
 
       - name: Deploy SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          repo: ${{ github.repository }}
           target_branch: output
           build_dir: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
