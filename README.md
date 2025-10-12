@@ -140,6 +140,28 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
   <em>Atualiza diariamente via GitHub Actions.</em>
 </p>
 
+### TL;DR para recrutadores
+- Foco principal: Flutter/Dart (mobile) + demos Web para avaliação.
+- Projeto destaque: FinTrack360 — Controle financeiro pessoal/familiar.
+<p>
+  <a href="https://reinaldobarreto.github.io/fintrack360/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo%20Web-Abrir-2ea44f?style=for-the-badge&logo=google-chrome" alt="Demo Web" />
+  </a>
+  <a href="https://github.com/reinaldobarreto/fintrack360" target="_blank">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-000000?style=for-the-badge&logo=github" alt="Repositório GitHub" />
+  </a>
+</p>
+
+### Stack complementar
+<p>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff" alt="Angular" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000" alt="React Native" /></a>
+</p>
+
 ### Contato
 <p>
   <a href="mailto:reinaldodevbarreto@gmail.com"><img src="https://img.shields.io/badge/Email-reinaldodevbarreto%40gmail.com-333?style=flat&logo=gmail" alt="Email" /></a>
