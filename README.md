@@ -21,8 +21,7 @@ Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB 
   - Repositório: https://github.com/reinaldobarreto/fintrack360
   - Demo (GitHub Pages): https://reinaldobarreto.github.io/fintrack360/
 
-## Contato
-- GitHub: https://github.com/reinaldobarreto
+<!-- Contato detalhado aparece mais abaixo -->
 ## Overview — Flutter/Dart First
 <div align="center">
   <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flutter/Dart First">
@@ -99,7 +98,7 @@ Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps An
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=00E5FF&vCenter=true&size=26&pause=1200" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=00E5FF&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
   <br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,firebase,git,github,ghactions,js,ts,react&perline=11" height="42" alt="Skill Icons" />
 </p>
@@ -138,28 +137,6 @@ Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar 
   <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" alt="Snake animation" />
   <br/>
   <em>Atualiza diariamente via GitHub Actions.</em>
-</p>
-
-### TL;DR para recrutadores
-- Foco principal: Flutter/Dart (mobile) + demos Web para avaliação.
-- Projeto destaque: FinTrack360 — Controle financeiro pessoal/familiar.
-<p>
-  <a href="https://reinaldobarreto.github.io/fintrack360/" target="_blank">
-    <img src="https://img.shields.io/badge/Demo%20Web-Abrir-2ea44f?style=for-the-badge&logo=google-chrome" alt="Demo Web" />
-  </a>
-  <a href="https://github.com/reinaldobarreto/fintrack360" target="_blank">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-000000?style=for-the-badge&logo=github" alt="Repositório GitHub" />
-  </a>
-</p>
-
-### Stack complementar
-<p>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" /></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff" alt="Angular" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000" alt="React Native" /></a>
 </p>
 
 ### Contato
