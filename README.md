@@ -1,25 +1,20 @@
-# Reinaldo Barreto — Full Stack JavaScript/TypeScript
+# Reinaldo Barreto
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white)](https://expo.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
 Desenvolvedor dedicado com 4 anos e 8 meses de experiência.
 Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB | React Native.
 
 ## Stack Principal
-- JavaScript/TypeScript para Web, APIs e Mobile cross‑platform
-- Frontend: React + Next.js
-- Backend: Node.js + Express/NestJS
-- Mobile: React Native (Expo/CLI)
+- Flutter/Dart para apps mobile-first e build web.
 
 ## Projeto em Destaque
 - FinTrack360 — Controle financeiro pessoal/familiar
@@ -27,7 +22,7 @@ Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB 
   - Demo (GitHub Pages): https://reinaldobarreto.github.io/fintrack360/
 
 <!-- Contato detalhado aparece mais abaixo -->
-## Overview — JavaScript/TypeScript First
+## Overview — Flutter/Dart First
 <div align="center">
   <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flutter/Dart First">
     <defs>
@@ -38,30 +33,29 @@ Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB 
       </linearGradient>
     </defs>
     <rect x="0" y="0" width="1200" height="140" fill="url(#g)"/>
-    <text x="50%" y="55%" text-anchor="middle" fill="#0A0A0A" font-size="34" font-weight="700">JavaScript / TypeScript First</text>
-    <text x="50%" y="80%" text-anchor="middle" fill="#ffffff" font-size="18" opacity="0.92">Web • APIs • Mobile cross‑platform</text>
+    <text x="50%" y="55%" text-anchor="middle" fill="#0A0A0A" font-size="34" font-weight="700">Flutter / Dart First</text>
+    <text x="50%" y="80%" text-anchor="middle" fill="#ffffff" font-size="18" opacity="0.92">Mobile • Web demo • Provider • Firebase</text>
   </svg>
 </div>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" style="filter: drop-shadow(0 0 6px #00E5FF);" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" style="filter: drop-shadow(0 0 6px #FFC107);" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" style="filter: drop-shadow(0 0 6px #FFC107);" alt="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #F7DF1E);" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #3178C6);" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" style="filter: drop-shadow(0 0 6px #61DAFB);" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #000);" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #339933);" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="44" style="filter: drop-shadow(0 0 6px #000);" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="44" style="filter: drop-shadow(0 0 6px #E0234E);" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #DD0031);" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" style="filter: drop-shadow(0 0 6px #61DAFB);" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" style="filter: drop-shadow(0 0 6px #61DAFB);" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" style="filter: drop-shadow(0 0 6px #2496ED);" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" style="filter: drop-shadow(0 0 6px #336791);" alt="PostgreSQL"/>
 </p>
 
 ### TL;DR para recrutadores
-- Foco principal: **JavaScript/TypeScript Full Stack** (Web + APIs + Mobile)
-- Frontend: **React/Next.js** • Backend: **Node.js/Express/NestJS** • Mobile: **React Native**
-- Portfólio continuamente atualizado com projetos JS/TS.
+- Foco principal: Flutter/Dart (mobile) + Demo Web de avaliação.
+- Abrir Demo Web: https://reinaldobarreto.github.io/fintrack360/
+- Repositório do projeto: https://github.com/reinaldobarreto/fintrack360
 
-Sou desenvolvedor **Full Stack JS/TS**, entregando produtos Web e Mobile com arquitetura limpa, integração contínua, observabilidade e foco em performance e segurança.
+Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps Android/iOS e versões Web quando útil para avaliação pública. Meu destaque é em arquitetura limpa, gerenciamento de estado com Provider e integrações simples com Firebase. Abaixo, botões rápidos para conhecer o projeto em Flutter e minha stack complementar.
 
 <p>
   <a href="https://reinaldobarreto.github.io/fintrack360/" target="_blank">
@@ -72,24 +66,26 @@ Sou desenvolvedor **Full Stack JS/TS**, entregando produtos Web e Mobile com arq
   </a>
 </p>
 
-### Destaque: Stack JS/TS
+### Destaque: Flutter/Dart
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Provider-7F3FBF?style=for-the-badge" alt="Provider (estado)" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase (Auth/Firestore)" />
+  <img src="https://img.shields.io/badge/Shared%20Preferences-00599C?style=for-the-badge" alt="Shared Preferences" />
 </p>
 
-### Projetos JS/TS
-- Aplicações Web com **React/Next.js** (SSR/SSG), acessibilidade e SEO
-- APIs **Node.js/Express/NestJS** com autenticação, cache, filas e testes
-- Apps **React Native** com navegação, persistência local e animações
+### Sobre o FinTrack360 (Flutter)
+- App de finanças pessoais com lançamentos, contas e gráficos.
+- Flutter 3+, Dart e Provider; build Android e Demo Web.
+- Persistência local com Shared Preferences; login demo local disponível.
+- Integração simples com Firebase (Auth/Firestore) quando necessário.
+- UI responsiva com Material e layout adaptável.
 
 #### Como o recrutador pode avaliar
-- Portfólio Web e repos públicos com documentação clara
-- Deploys e demos quando aplicável; commits e testes evidenciam qualidade
+- Abra a Demo Web pelo botão acima.
+- Clique em `Pular login (demo local)` para acessar o dashboard.
+- Explore lançamentos, contas e gráficos; o estado permanece local no navegador.
 
 ### Stack complementar (JS/TS e frameworks)
 <p>
@@ -102,7 +98,7 @@ Sou desenvolvedor **Full Stack JS/TS**, entregando produtos Web e Mobile com arq
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=JavaScript%2FTypeScript%20First;Web%20%7C%20APIs%20%7C%20Mobile;Full%20Stack%20JS%2FTS&center=true&width=980&height=45&color=3178C6&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=00E5FF&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
   <br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,firebase,git,github,ghactions,js,ts,react&perline=11" height="42" alt="Skill Icons" />
 </p>
@@ -110,18 +106,20 @@ Sou desenvolvedor **Full Stack JS/TS**, entregando produtos Web e Mobile com arq
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Sobre
-Sou desenvolvedor **Full Stack JavaScript/TypeScript**. Entrego frontend moderno (React/Next.js), backend robusto (Node.js/Express/NestJS) e mobile cross‑platform (React Native) com arquitetura limpa, testes, CI/CD e foco em performance, segurança e UX.
+Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar demos Web para avaliação pública e integrações simples com Firebase. Prezo por arquitetura limpa e UX objetiva.
 
 ### Projetos em destaque
-- **Finanças Pessoais (React Native)** — app cross‑platform com saldo, gráficos e CRUD (AsyncStorage)
-- **Web Apps (React/Next.js)** — SSR/SSG, SEO, acessibilidade e performance
-- **APIs (Node/NestJS)** — autenticação, RBAC, filas, cache e documentação (OpenAPI)
+**FinTrack360** — Controle financeiro pessoal/familiar
+- Demo Web: https://reinaldobarreto.github.io/fintrack360/
+- Repositório: https://github.com/reinaldobarreto/fintrack360
+- Avaliação rápida: use “Pular login (demo local)” para entrar sem Firebase.
 
-### Histórico Flutter (referência)
+### Repositório em destaque
 <div align="center">
   <a href="https://github.com/reinaldobarreto/fintrack360">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldobarreto&repo=fintrack360&title_color=FFC107&text_color=FFFFFF&icon_color=00E5FF&bg_color=0D1117&border_color=02569B" alt="FinTrack360 Pin" />
   </a>
+  
 </div>
 
 ### Métricas e visuais
@@ -136,7 +134,7 @@ Sou desenvolvedor **Full Stack JavaScript/TypeScript**. Entrego frontend moderno
     <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg?v=5" style="max-width:840px;width:100%;height:auto;border:1px solid #02569B;border-radius:8px;" />
   </picture>
   <br/>
-  <em style="color:#FFC107;">Layout mensal/anual com paleta JS/TS (amarelo/azul/react blue).</em>
+  <em style="color:#FFC107;">Layout mensal/anual coeso com a paleta (âmbar/turquesa/Flutter blue).</em>
 </div>
 
 <div align="center" style="margin: 8px 0 18px 0;">
@@ -161,17 +159,13 @@ Sou desenvolvedor **Full Stack JavaScript/TypeScript**. Entrego frontend moderno
 </p>
 
 Texto para LinkedIn/CV (copiar/colar):
-“Desenvolvedor Full Stack JavaScript/TypeScript: frontend com React/Next.js, backend com Node.js/Express/NestJS e mobile com React Native. Foco em arquitetura limpa, testes, CI/CD, performance, segurança e UX. Portfólio com projetos públicos e documentação.”
+“FinTrack360 é um app Flutter focado em Mobile (Android/iOS), com versão Web pública para avaliação: https://reinaldobarreto.github.io/fintrack360/. Para testar sem cadastro, clique em ‘Pular login (demo local)’. Projeto demonstra UI responsiva, estado com Provider e gráficos. Disponível também para build Android/iOS.”
 
 ### Tecnologias (perfil)
 <p>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff" alt="Next.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff" alt="Express" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff" alt="NestJS" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff" alt="Angular" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" /></a>
   <a href="https://developer.mozilla.org/docs/Web" target="_blank"><img src="https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=fff" alt="Web" /></a>
