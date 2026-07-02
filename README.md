@@ -10,7 +10,7 @@
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
 
-Desenvolvedor dedicado com 4 anos e 8 meses de experiência.
+Software Engineer (Full-Cycle) com 3+ anos de experiência.
 Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB | React Native.
 
 ## Stack Principal
