@@ -1,173 +1,175 @@
-# Reinaldo Barreto
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
-
-Software Engineer (Full-Cycle) com 3+ anos de experiência.
-Experiência em JavaScript | Node.js | Angular 2+ | TypeScript | React.js | WEB | React Native.
-
-## Stack Principal
-- Flutter/Dart para apps mobile-first e build web.
-
-## Projeto em Destaque
-- FinTrack360 — Controle financeiro pessoal/familiar
-  - Repositório: https://github.com/reinaldobarreto/fintrack360
-  - Demo (GitHub Pages): https://reinaldobarreto.github.io/fintrack360/
-
-<!-- Contato detalhado aparece mais abaixo -->
-## Overview — Flutter/Dart First
 <div align="center">
-  <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flutter/Dart First">
-    <defs>
-      <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00E5FF"/>
-        <stop offset="50%" stop-color="#FFC107"/>
-        <stop offset="100%" stop-color="#02569B"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="1200" height="140" fill="url(#g)"/>
-    <text x="50%" y="55%" text-anchor="middle" fill="#0A0A0A" font-size="34" font-weight="700">Flutter / Dart First</text>
-    <text x="50%" y="80%" text-anchor="middle" fill="#ffffff" font-size="18" opacity="0.92">Mobile • Web demo • Provider • Firebase</text>
-  </svg>
+  <img src="./assets/javascript-mascot.svg" width="100%" alt="JavaScript mascot surrounded by Node.js, NestJS, Next.js and React" />
 </div>
 
+<h1 align="center">Reinaldo Barreto</h1>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" style="filter: drop-shadow(0 0 6px #00E5FF);" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" style="filter: drop-shadow(0 0 6px #FFC107);" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" style="filter: drop-shadow(0 0 6px #FFC107);" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #F7DF1E);" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" style="filter: drop-shadow(0 0 6px #3178C6);" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #339933);" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" style="filter: drop-shadow(0 0 6px #DD0031);" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" style="filter: drop-shadow(0 0 6px #61DAFB);" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" style="filter: drop-shadow(0 0 6px #61DAFB);" alt="React Native"/>
-</p>
-
-### TL;DR para recrutadores
-- Foco principal: Flutter/Dart (mobile) + Demo Web de avaliação.
-- Abrir Demo Web: https://reinaldobarreto.github.io/fintrack360/
-- Repositório do projeto: https://github.com/reinaldobarreto/fintrack360
-
-Sou desenvolvedor mobile com foco principal em Flutter/Dart, construindo apps Android/iOS e versões Web quando útil para avaliação pública. Meu destaque é em arquitetura limpa, gerenciamento de estado com Provider e integrações simples com Firebase. Abaixo, botões rápidos para conhecer o projeto em Flutter e minha stack complementar.
-
-<p>
-  <a href="https://reinaldobarreto.github.io/fintrack360/" target="_blank">
-    <img src="https://img.shields.io/badge/Demo%20Web-Abrir-2ea44f?style=for-the-badge&logo=google-chrome" alt="Demo Web" />
-  </a>
-  <a href="https://github.com/reinaldobarreto/fintrack360" target="_blank">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-000000?style=for-the-badge&logo=github" alt="Repositório GitHub" />
-  </a>
-</p>
-
-### Destaque: Flutter/Dart
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Provider-7F3FBF?style=for-the-badge" alt="Provider (estado)" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase (Auth/Firestore)" />
-  <img src="https://img.shields.io/badge/Shared%20Preferences-00599C?style=for-the-badge" alt="Shared Preferences" />
-</p>
-
-### Sobre o FinTrack360 (Flutter)
-- App de finanças pessoais com lançamentos, contas e gráficos.
-- Flutter 3+, Dart e Provider; build Android e Demo Web.
-- Persistência local com Shared Preferences; login demo local disponível.
-- Integração simples com Firebase (Auth/Firestore) quando necessário.
-- UI responsiva com Material e layout adaptável.
-
-#### Como o recrutador pode avaliar
-- Abra a Demo Web pelo botão acima.
-- Clique em `Pular login (demo local)` para acessar o dashboard.
-- Explore lançamentos, contas e gráficos; o estado permanece local no navegador.
-
-### Stack complementar (JS/TS e frameworks)
-<p>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" /></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff" alt="Angular" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000" alt="React Native" /></a>
+  <strong>JavaScript Software Engineer · Node.js Backend First</strong><br/>
+  APIs escaláveis com NestJS, aplicações web com Next.js e experiências mobile com React Native.
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Flutter%2FDart%20First;Mobile%20Android%20%7C%20iOS%20%7C%20Web;FinTrack360%20em%20destaque&center=true&width=980&height=45&color=00E5FF&vCenter=true&size=26&pause=900" alt="Typing SVG" /></a>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,firebase,git,github,ghactions,js,ts,react&perline=11" height="42" alt="Skill Icons" />
-</p>
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### Sobre
-Sou desenvolvedor mobile-first focado em Flutter/Dart, com prática em publicar demos Web para avaliação pública e integrações simples com Firebase. Prezo por arquitetura limpa e UX objetiva.
-
-### Projetos em destaque
-**FinTrack360** — Controle financeiro pessoal/familiar
-- Demo Web: https://reinaldobarreto.github.io/fintrack360/
-- Repositório: https://github.com/reinaldobarreto/fintrack360
-- Avaliação rápida: use “Pular login (demo local)” para entrar sem Firebase.
-
-### Repositório em destaque
-<div align="center">
-  <a href="https://github.com/reinaldobarreto/fintrack360">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldobarreto&repo=fintrack360&title_color=FFC107&text_color=FFFFFF&icon_color=00E5FF&bg_color=0D1117&border_color=02569B" alt="FinTrack360 Pin" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=F7DF1E&center=true&vCenter=true&width=900&lines=JavaScript+no+centro+de+tudo;Node.js+%2B+NestJS+no+backend;Next.js+%2B+React+na+web;React+Native+no+mobile;Produtos+full-cycle+prontos+para+escalar" alt="Animated technology focus" />
   </a>
-  
-</div>
-
-### Métricas e visuais
-<div align="center" style="margin: 8px 0 16px 0;">
-  <img src="https://komarev.com/ghpvc/?username=reinaldobarreto&label=Visitors&color=FFC107&style=flat" alt="Profile views" />
- </div>
-
-<div align="center" style="margin: 8px 0 18px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg?v=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake-light.svg?v=5" />
-    <img alt="Calendário de contribuições em animação (Snake)" src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg?v=5" style="max-width:840px;width:100%;height:auto;border:1px solid #02569B;border-radius:8px;" />
-  </picture>
-  <br/>
-  <em style="color:#FFC107;">Layout mensal/anual coeso com a paleta (âmbar/turquesa/Flutter blue).</em>
-</div>
-
-<div align="center" style="margin: 8px 0 18px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&rank_icon=github&title_color=FFC107&text_color=FFFFFF&icon_color=00E5FF&bg_color=0D1117&border_color=02569B" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&title_color=FFC107&text_color=FFFFFF&bg_color=0D1117&border_color=02569B" height="150" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin: 8px 0 18px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&hide_border=true&bg_color=0D1117&color=00E5FF&line=02569B&point=FFC107&area=true&title_color=FFC107" alt="Activity Graph" />
-</div>
-
-<div align="center" style="margin: 8px 0 8px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=reinaldobarreto&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Profile Trophy" />
-</div>
-
-<!-- Snake incorporado acima nas métricas -->
-
-### Contato
-<p>
-  <a href="mailto:reinaldodevbarreto@gmail.com"><img src="https://img.shields.io/badge/Email-reinaldodevbarreto%40gmail.com-333?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/reinaldobarreto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-Texto para LinkedIn/CV (copiar/colar):
-“FinTrack360 é um app Flutter focado em Mobile (Android/iOS), com versão Web pública para avaliação: https://reinaldobarreto.github.io/fintrack360/. Para testar sem cadastro, clique em ‘Pular login (demo local)’. Projeto demonstra UI responsiva, estado com Provider e gráficos. Disponível também para build Android/iOS.”
+<p align="center">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-CORE-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-BACKEND%20FIRST-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/NestJS-APIs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-WEB-111111?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </a>
+</p>
 
-### Tecnologias (perfil)
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React.js" /></a>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React Native" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111" alt="Supabase" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+</p>
+
+## `> whoami`
+
+Sou Software Engineer full-cycle com foco principal em **JavaScript e Node.js**.
+Construo backends seguros e modulares, produtos web modernos e aplicativos
+mobile multiplataforma. Minha prioridade é transformar regras de negócio em
+sistemas claros, testáveis, observáveis e preparados para produção.
+
+```javascript
+const reinaldo = {
+  language: "JavaScript",
+  backend: ["Node.js", "NestJS", "REST", "Realtime"],
+  web: ["Next.js", "React.js", "TypeScript"],
+  mobile: ["React Native", "Expo"],
+  data: ["PostgreSQL", "Supabase", "SQLite"],
+  principles: ["Clean Architecture", "Security", "UX", "Performance"],
+};
+```
+
+## Ecossistema principal
+
+<div align="center">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="112" alt="JavaScript" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="82" alt="Node.js" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nestjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="72" alt="NestJS" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="72" alt="Next.js" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="72" alt="React" />
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Backend em primeiro lugar</h3>
+      <p>Node.js, NestJS, autenticação, autorização, pagamentos, filas, integrações, APIs REST e eventos em tempo real.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Web moderna</h3>
+      <p>Next.js, React.js, TypeScript, componentes reutilizáveis, acessibilidade, SEO e interfaces responsivas.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Mobile premium</h3>
+      <p>React Native, Expo, offline-first, mapas, notificações, animações e publicação Android/iOS.</p>
+    </td>
+  </tr>
+</table>
+
+## Projetos em destaque
+
+<div align="center">
+  <a href="https://github.com/reinaldobarreto/portfolio-reinaldo-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldobarreto&repo=portfolio-reinaldo-react&title_color=F7DF1E&text_color=F4F4F4&icon_color=5FA04E&bg_color=0D1117&border_color=F7DF1E" alt="Portfolio React" />
+  </a>
+  <a href="https://github.com/reinaldobarreto/pdfturbo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldobarreto&repo=pdfturbo&title_color=F7DF1E&text_color=F4F4F4&icon_color=5FA04E&bg_color=0D1117&border_color=F7DF1E" alt="PDF Turbo" />
+  </a>
+  <a href="https://github.com/reinaldobarreto/quiz-biblico">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reinaldobarreto&repo=quiz-biblico&title_color=F7DF1E&text_color=F4F4F4&icon_color=5FA04E&bg_color=0D1117&border_color=F7DF1E" alt="Quiz Bíblico" />
+  </a>
+</div>
+
+### PopFaxina
+
+Marketplace mobile privado desenvolvido com **React Native, Expo, TypeScript e
+Supabase**. Inclui mapa, contratação, chat em tempo real, OTP, pagamentos,
+carteira, painel administrativo, RLS e sincronização offline.
+
 <p>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" /></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff" alt="Angular" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" /></a>
-  <a href="https://developer.mozilla.org/docs/Web" target="_blank"><img src="https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=fff" alt="Web" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000" alt="React Native" /></a>
+  <a href="https://github.com/reinaldobarreto/popfaxina">
+    <img src="https://img.shields.io/badge/PopFaxina-Repositório%20privado-111111?style=for-the-badge&logo=github&logoColor=F7DF1E" alt="PopFaxina private repository" />
+  </a>
+</p>
+
+## Atividade
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&rank_icon=github&title_color=F7DF1E&text_color=F4F4F4&icon_color=5FA04E&bg_color=0D1117&border_color=F7DF1E" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&title_color=F7DF1E&text_color=F4F4F4&bg_color=0D1117&border_color=F7DF1E&hide=html,css" height="165" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinaldobarreto&hide_border=true&bg_color=0D1117&color=F7DF1E&line=5FA04E&point=FFFFFF&area=true&title_color=F7DF1E" width="100%" alt="Contribution activity graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/snake.svg" width="100%" alt="Animated contribution snake" />
+</picture>
+
+## Ferramentas e práticas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,nestjs,nextjs,react,ts,postgres,supabase,docker,git,github,githubactions,vscode&perline=13" alt="Technology icons" />
+</p>
+
+- arquitetura modular e feature-first;
+- APIs seguras, validação e controle de acesso;
+- testes, CI/CD e revisão de código;
+- UX/UI responsiva e acessível;
+- observabilidade e otimização de performance;
+- desenvolvimento orientado a produto.
+
+## Vamos conversar
+
+<p align="center">
+  <a href="mailto:reinaldodevbarreto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-reinaldodevbarreto%40gmail.com-F7DF1E?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/reinaldobarreto/">
+    <img src="https://img.shields.io/badge/LinkedIn-Reinaldo%20Barreto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/reinaldobarreto">
+    <img src="https://img.shields.io/badge/GitHub-@reinaldobarreto-111111?style=for-the-badge&logo=github&logoColor=F7DF1E" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reinaldobarreto&label=VISITAS&color=F7DF1E&style=for-the-badge" alt="Profile views" />
 </p>
