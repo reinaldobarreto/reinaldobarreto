@@ -1,0 +1,88 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">JavaScript mascot and full-stack ecosystem</title>
+  <desc id="description">A large JavaScript mascot surrounded by Node.js, NestJS, Next.js, React and React Native.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070707"/>
+      <stop offset="0.5" stop-color="#151203"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 210) rotate(90) scale(210 360)">
+      <stop stop-color="#F7DF1E" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#F7DF1E" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#F7DF1E" flood-opacity="0.3"/>
+    </filter>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="30" fill="url(#background)"/>
+  <ellipse cx="600" cy="210" rx="390" ry="210" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g opacity="0.38" stroke="#F7DF1E">
+    <path d="M75 92H310M890 332H1125M100 345H290M915 86H1092" stroke-dasharray="6 12">
+      <animate attributeName="stroke-dashoffset" values="0;36" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="75" cy="92" r="5" fill="#F7DF1E"/>
+    <circle cx="1125" cy="332" r="5" fill="#F7DF1E"/>
+    <circle cx="100" cy="345" r="5" fill="#F7DF1E"/>
+    <circle cx="1092" cy="86" r="5" fill="#F7DF1E"/>
+  </g>
+
+  <g transform="translate(600 210)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+      <ellipse rx="330" ry="144" stroke="#F7DF1E" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="8 14"/>
+      <circle cx="330" cy="0" r="7" fill="#F7DF1E"/>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="476" y="78" width="248" height="248" rx="48" fill="#F7DF1E"/>
+    <rect x="486" y="88" width="228" height="228" rx="40" stroke="#FFF6A6" stroke-opacity="0.7" stroke-width="3"/>
+    <circle cx="548" cy="164" r="10" fill="#111111"/>
+    <circle cx="652" cy="164" r="10" fill="#111111"/>
+    <path d="M559 198C577 219 623 219 641 198" stroke="#111111" stroke-width="8" stroke-linecap="round"/>
+    <text x="600" y="288" text-anchor="middle" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900">JS</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle">
+    <g transform="translate(226 126)">
+      <circle r="62" fill="#0B1710" stroke="#5FA04E" stroke-width="3"/>
+      <text y="8" fill="#5FA04E" font-size="26">NODE</text>
+      <text y="31" fill="#D9F7D3" font-size="14">BACKEND</text>
+      <animateTransform attributeName="transform" type="translate" values="226 126;226 118;226 126" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(974 126)">
+      <circle r="62" fill="#1B090D" stroke="#E0234E" stroke-width="3"/>
+      <text y="8" fill="#E0234E" font-size="24">NEST</text>
+      <text y="31" fill="#FFD7E0" font-size="14">APIs</text>
+      <animateTransform attributeName="transform" type="translate" values="974 126;974 134;974 126" dur="3.5s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(226 300)">
+      <circle r="62" fill="#101010" stroke="#FFFFFF" stroke-width="3"/>
+      <text y="8" fill="#FFFFFF" font-size="25">NEXT</text>
+      <text y="31" fill="#BFBFBF" font-size="14">WEB</text>
+      <animateTransform attributeName="transform" type="translate" values="226 300;218 300;226 300" dur="3.7s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(974 300)">
+      <circle r="62" fill="#07171B" stroke="#61DAFB" stroke-width="3"/>
+      <text y="8" fill="#61DAFB" font-size="24">REACT</text>
+      <text y="31" fill="#C9F5FF" font-size="14">WEB + MOBILE</text>
+      <animateTransform attributeName="transform" type="translate" values="974 300;982 300;974 300" dur="3.3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g fill="#F7DF1E" opacity="0.8" font-family="monospace" font-size="20">
+    <text x="342" y="66">{ }</text>
+    <text x="826" y="66">&lt;/&gt;</text>
+    <text x="342" y="372">npm run build</text>
+    <text x="742" y="372">const future = "JavaScript";</text>
+  </g>
+</svg>
