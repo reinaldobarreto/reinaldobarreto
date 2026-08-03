@@ -60,15 +60,56 @@
 ## `whoami.py`
 
 ```python
-reinaldo = {
-    "role": "Python Backend Engineer",
-    "core": ["REST APIs", "Automation", "Data Analysis", "SQL", "ETL"],
-    "backend": ["FastAPI", "Django", "DRF", "Flask", "SQLAlchemy", "Celery"],
-    "data": ["Pandas", "NumPy", "Polars", "Jupyter", "DuckDB", "PyArrow"],
-    "databases": ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis"],
-    "architecture": ["Clean Architecture", "DDD", "SOLID", "Hexagonal"],
-    "complementary": ["Node.js", "NestJS", "Next.js", "React", "TypeScript"],
-}
+from typing import Iterable
+
+
+PRIMARY_STACK = (
+    "Python",
+    "FastAPI",
+    "Django",
+    "SQL",
+    "Automation",
+    "Data Analysis",
+)
+
+DATA_TOOLKIT = ["Pandas", "NumPy", "Polars", "Jupyter", "DuckDB"]
+BACKEND_TOOLKIT = ["DRF", "SQLAlchemy", "Pydantic", "Celery", "Redis"]
+COMPLEMENTARY_STACK = ["Node.js", "NestJS", "Next.js", "React", "TypeScript"]
+
+ZEN_OF_PYTHON = [
+    "Beautiful is better than ugly.",
+    "Explicit is better than implicit.",
+    "Simple is better than complex.",
+    "Readability counts.",
+    "Now is better than never.",
+]
+
+
+def build_focus(stack: tuple[str, ...], extras: Iterable[str]) -> dict:
+    return {
+        "role": "Python Backend Engineer",
+        "main_stack": stack,
+        "specialties": [
+            "REST APIs",
+            "ETL Pipelines",
+            "Business Automation",
+            "SQL Optimization",
+            "Scalable Backend Systems",
+        ],
+        "toolkit": [*stack[1:], *extras],
+    }
+
+
+def choose_style(principles: list[str]) -> str:
+    if "Readability counts." in principles and "Simple is better than complex." in principles:
+        return "clean, explicit and production-ready"
+    return "pragmatic and scalable"
+
+
+reinaldo = build_focus(PRIMARY_STACK, BACKEND_TOOLKIT + DATA_TOOLKIT)
+reinaldo["engineering_style"] = choose_style(ZEN_OF_PYTHON)
+reinaldo["also_works_with"] = COMPLEMENTARY_STACK
+reinaldo["favorite_python_truths"] = tuple(ZEN_OF_PYTHON[:3])
 ```
 
 ## The Zen of Python
@@ -92,6 +133,29 @@ reinaldo = {
 > If the implementation is hard to explain, it's a bad idea.  
 > If the implementation is easy to explain, it may be a good idea.  
 > Namespaces are one honking great idea, let's do more of those!
+
+```ts
+type StackFocus = "primary" | "complementary";
+
+type Profile = {
+  focus: StackFocus;
+  backend: string[];
+  web: string[];
+  mobile: string[];
+  notes: string[];
+};
+
+const complementary: Profile = {
+  focus: "complementary",
+  backend: ["Node.js", "NestJS", "Express"],
+  web: ["Next.js", "React", "TypeScript"],
+  mobile: ["React Native", "Expo"],
+  notes: [
+    "JavaScript/TypeScript remain part of my toolkit",
+    "Python is my primary stack for backend, automation and data",
+  ],
+};
+```
 
 ## Python-powered systems ready for production
 
@@ -342,8 +406,7 @@ especially when a product benefits from full-stack integration around a Python b
 ## GitHub analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reinaldobarreto&show_icons=true&rank_icon=github&title_color=4C8CCB&text_color=E6EDF3&icon_color=FFD343&bg_color=0D1117&border_color=244B73" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldobarreto&layout=compact&title_color=4C8CCB&text_color=E6EDF3&bg_color=0D1117&border_color=244B73&hide=html,css" height="170" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/reinaldobarreto/reinaldobarreto/output/metrics.svg" width="100%" alt="GitHub metrics" />
 </div>
 
 <div align="center">
